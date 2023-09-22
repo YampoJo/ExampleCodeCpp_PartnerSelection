@@ -1,0 +1,15 @@
+﻿  general.cpp
+  The contents of <span> are available only with C++20 or later.
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(32,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(32,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(30,12): warning C4101: hConsole: неиспользованная локальная переменная
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(43,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(199,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(204,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(642,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(698,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(724,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(730,23): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(738,20): warning C4101: j: неиспользованная локальная переменная
+C:\Users\student.ITSTEP\source\repos\Exam\Exam\general.cpp(792,24): warning C4018: >: несоответствие типов со знаком и без знака
+  Exam.vcxproj -> C:\Users\student.ITSTEP\source\repos\Exam\Debug\Exam.exe
